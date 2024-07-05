@@ -1,1 +1,2 @@
-# TradeAssist
+# tradassist
+Trading Assistant
