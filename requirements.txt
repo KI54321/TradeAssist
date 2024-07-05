@@ -112,7 +112,7 @@ socketIO-client==0.7.2
 soupsieve==2.5
 SQLAlchemy==2.0.31
 stack-data==0.6.3
-TA-Lib==0.4.32
+ta-lib-bin
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 termcolor==2.4.0
